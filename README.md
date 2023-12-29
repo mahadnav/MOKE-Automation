@@ -67,9 +67,17 @@ Upon running the notebook, you can anticipate the following outcomes:
 
 This Jupyter Notebook aims to enhance the user's ability to conduct MOKE experiments seamlessly, fostering a more accessible and efficient approach to data acquisition and analysis. For detailed instructions and considerations, please refer to the attached readme file in the repository.
 
-Credits
+________________________________
+
+## Credits
 This automation program is based on Shoaib Jamal's code for FMR automation (https://github.com/sjshamsi/SpinLab_FMR_Automation) and has been tailored to the specific requirements for the MOKE experiment.
 
-Developer: Mahad Naveed 
-Supervisor: Dr. Sabieh Anwar
-Collaborator: Wardah Mahmood
+________________________________
+
+**Developer:** Mahad Naveed 
+
+**Supervisor:** Dr. Sabieh Anwar
+
+**Collaborator:** Wardah Mahmood
+
+**Explore PhysLab:** www.physlab.org
