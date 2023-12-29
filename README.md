@@ -65,7 +65,9 @@ Upon running the notebook, you can anticipate the following outcomes:
 
 - **Data Visualization:** After the experiment, the script provides functionality for visualizing the acquired MOKE data. Plotting functions within the notebook enable users to gain insights into the magnetization behavior concerning the applied magnetic field.
 
-!(Images/hloop.png)
+<div align="center">
+<img src="Images/NiFe_SPT4(50nm)_field_sweep_-150.0-150.0_Oe_(1)_(2).png" alt="" width="50%" height="50%">
+</div>
 
 ________________________________
 
@@ -80,4 +82,4 @@ ________________________________
 
 **Collaborator:** Wardah Mahmood
 
-**Explore PhysLab:** www.physlab.org
+Explore PhysLab here: www.physlab.org
