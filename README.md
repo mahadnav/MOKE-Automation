@@ -65,6 +65,8 @@ Upon running the notebook, you can anticipate the following outcomes:
 
 - **Data Visualization:** After the experiment, the script provides functionality for visualizing the acquired MOKE data. Plotting functions within the notebook enable users to gain insights into the magnetization behavior concerning the applied magnetic field.
 
+!(Images/hloop.png)
+
 ________________________________
 
 ## Credits
