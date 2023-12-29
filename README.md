@@ -65,8 +65,6 @@ Upon running the notebook, you can anticipate the following outcomes:
 
 - **Data Visualization:** After the experiment, the script provides functionality for visualizing the acquired MOKE data. Plotting functions within the notebook enable users to gain insights into the magnetization behavior concerning the applied magnetic field.
 
-This Jupyter Notebook aims to enhance the user's ability to conduct MOKE experiments seamlessly, fostering a more accessible and efficient approach to data acquisition and analysis. For detailed instructions and considerations, please refer to the attached readme file in the repository.
-
 ________________________________
 
 ## Credits
