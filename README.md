@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Jupyter Notebook serves as a comprehensive tool for automating the Magneto Optic Kerr Effect (MOKE) experiment using the KEPCO Bipolar Operational Power Supply (BOP) and the SRS Lock-in Amplifier (LIA). The script allows for efficient parameter setting, data acquisition, and visualization, streamlining the MOKE experimental process.
+This Jupyter Notebook serves as a comprehensive tool for automating the Magneto Optic Kerr Effect (MOKE) experiment. The script allows for efficient parameter setting, data acquisition, and visualization, streamlining the MOKE experimental process.
 
 The magneto-optic Kerr effect (MOKE) is a non-invasive optical technique used to characterize magnetic materials. The Kerr effect is a phenomenon where the polarization of incident light changes when it is reflected from a magnetized surface. The change in polarization depends on the orientation and magnitude of the magnetization vector in the material. By performing MOKE, we can obtain hysteresis loops that show how the magnetization of a material changes by changing the applied magnetic field. Hysteresis loops have unique characteristics for different systems, such as saturation magnetization (Ms) which is the maximum value of magnetization that can be achieved, and coercivity ($H_c$) which is the minimum field required to reduce the magnetization to zero.
 
