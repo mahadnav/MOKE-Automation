@@ -8,6 +8,11 @@ The magneto-optic Kerr effect (MOKE) is a non-invasive optical technique used to
 
 In our experiment, light from the He-Ne laser (λ = 632.8 nm) passes through a polarizer (set to horizontal polarization). An aspheric lens is used to focus the light on the sample surface. The sample holder is placed between the poles of an electromagnet. This electromagnet is connected to a KEPCO bi-polar operational power supply. As we change the input current of the power supply, the magnetic field can be controlled over the sample. The reflected light is then modulated sinusoidally by the photoelastic modulator (Hinds Instrument, PEM-100) operated at 50 kHz. The modulated signal is also used as a reference for the SRS lock-in amplifier. The modulated beam traverses through an analyzer to reach a high-speed photodetector (Hinds Instruments, DET-200). Since the modulated signal is very small, the output from the photodetector is fed to the lock-in amplifier. The intensities from the lock-in are then translated to magnetization and are plotted against the applied field.  
 
+Here is a schematic of the experimental setup:
+
+<div align="center">
+<img src="Images/IMG_6019.png" alt="" width="70%" height="70%">
+</div>
 
 ## Prerequisites
 
